@@ -17,4 +17,4 @@
 * Covered several projects with tests.
 * Taught programming to 2 people.
 
-### Laravel, PHP, PhpMyAdmin, HTML, SCSS, Linux, CSS, WordPress, JavaScript, Docker, Adminer, MongoDB, Bash, Jenkins, Swift, SwiftUI, jQuery, Python, NodeJS
+### PHP, Laravel, JavaScript, MySQL, MongoDB, Docker, Swift, SwiftUI, Python, Redstone
