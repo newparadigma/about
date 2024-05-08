@@ -1,6 +1,5 @@
-## PHP, Laravel, JavaScript, MySQL, MongoDB, Redis, Docker
-## Swift, SwiftUI - try to learn
-### Redstone can help you build a autofarm in minecraft :)
+## PHP, Laravel, JavaScript, MySQL, MongoDB, Redis, Docker, Redstone
+## Swift, SwiftUI - learning in progress.
 
 ## About.
 * My first program was a minigame in Minecraft.
