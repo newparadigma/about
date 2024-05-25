@@ -1,9 +1,10 @@
-## PHP, Laravel, JavaScript, MySQL, MongoDB, Redis, Docker, Redstone
-## Swift, SwiftUI - learning in progress.
+## PHP, Python, Laravel, Symfony, JavaScript, Docker, Redstone
+## MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, ClickHouse
+## RabbitMQ, Apache Kafka
 
 ## About.
 * My first program was a minigame in Minecraft.
-* Was a linux user about 10 years. (RN macOS user O_o)
+* Was a linux user about 10 years. RN macOS user 🍎
 * My hobby is radio electronics.
 
 
